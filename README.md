@@ -269,6 +269,6 @@ Specialization: AI/ML Engineering · NLP · RAG Pipelines · Cybersecurity AI
 
 ---
 
-## 📄 License
+## License
 
 This project was developed as a graduation project. All rights reserved.
