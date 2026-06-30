@@ -234,7 +234,9 @@ GROQ_API_KEY=your_groq_api_key_here
 
 Interactive API docs (Swagger UI) are available at:
 ```
-https://<your-space-url>/docs
+https://mirao-blackcat-report-generator.hf.space/docs
+https://mirao-blackcat-chatbot.hf.space/docs
+https://mirao-malware-detection.hf.space/docs
 ```
 
 ---
@@ -243,7 +245,7 @@ https://<your-space-url>/docs
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/BlackCat-AI-Core.git
+git clone https://github.com/mira203/BlackCat-AI-Core.git
 cd BlackCat-AI-Core
 
 # Pick a module, e.g. CyberFixBot
